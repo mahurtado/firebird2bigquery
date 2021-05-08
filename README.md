@@ -47,6 +47,7 @@ git clone https://github.com/mahurtado/firebird2bigquery
 
 Build:
 ```
+cd firebird2bigquery
 mvn clean compile assembly:single
 ```
 
