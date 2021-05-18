@@ -2,7 +2,7 @@
 
 ## Goal
 
-This is a Java migration tool for coping and transforming data from  Firebird database into BigQuery.
+This is a Java migration tool for moving and transforming data from  Firebird database into BigQuery.
 
 The Java utility will do direct connection to Firebird and BigQuery. There are no extra import/export files in the process.
 
