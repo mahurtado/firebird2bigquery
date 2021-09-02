@@ -1,5 +1,7 @@
 # firebird2bigquery
 
+![](https://github.com/mahurtado/firebird2bigquery/blob/main/firiebird2bigquery.jpg)
+
 ## Goal
 
 This is a Java migration tool for moving and transforming data from  Firebird database into BigQuery.
